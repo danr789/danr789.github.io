@@ -1,5 +1,5 @@
 # Poptropica AS3 Flashpoint Curation
-> Flashpoint Curation of the AS3 and AS2 version Of Poptropica!
+> Flashpoint Curation of the AS3 version Of Poptropica!
 
 
 ### Installation
