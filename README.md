@@ -1,2 +1,2 @@
-Pop Site Version : v1.1 
+Pop Site Version : v1.2
 Main Site Version : v1
