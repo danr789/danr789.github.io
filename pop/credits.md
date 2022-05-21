@@ -8,4 +8,4 @@
 
 _Poptropica Realms' Svadilfari used in this Website Belongs to Poptropica and Sandbox Networks_
 
-_For Takedowns, please go to the [Takedowns Page.](https://danr789.github.io/pop/#/takedowns)
+_For Takedowns, please go to the [Takedowns Page.](https://danr789.github.io/pop/#/takedowns)_

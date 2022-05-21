@@ -9,4 +9,4 @@ Feel Free to contact any of the developers via the following means:
 **Light** : He can be contacted via Discord on _light#9585_ 
 
 _In using both of the methods above, you'll be asked to verify by emailing them with an official
-(username)@poptropica.com email, within 48 Hours this site will be takendown_
+(username)@poptropica.com email, within 48 Hours this site will be taken down_
