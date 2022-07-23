@@ -2,7 +2,7 @@
 
 ### Special Thanks to the Following for making this Project Possible:
 - [Poptropica](https://poptropica.com) | For making this Game
-- Light [(nik0dev)](https://github.com/nik0dev) 
+- Light [(hauntii)](https://github.com/hauntii) 
 - Prof.Robin [(danr789)](https://github.com/danr789)
 
 
