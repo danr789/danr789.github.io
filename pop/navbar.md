@@ -2,3 +2,4 @@
 - [Troubleshooting](help)
 - [Credits](credits)
 - [Bugs](bugs)
+- [BETA Testing](beta)
